@@ -19,8 +19,10 @@ This Jupyter Notebook provides a step-by-step guide on how to clean and smooth n
 By following the tutorial, you can effectively enhance your density plots, making them more informative and visually appealing, which is crucial for data analysis and presentation.
 
 ## Credits
-This code has been developed for PhysLab @ LUMS under the supervision of Dr. Sabieh Anwar and mentorship of Dr. Adnan Raza.
+This code has been developed for PhysLab @ LUMS.
 Developer: Mahad Naveed
+Supervisior: Dr. Sabieh Anwar 
+Mentor: Dr. Adnan Raza.
 
 Explore PhysLab here:
 http://www.physlab.org
