@@ -20,8 +20,11 @@ By following the tutorial, you can effectively enhance your density plots, makin
 
 ## Credits
 This code has been developed for PhysLab @ LUMS.
+
 Developer: Mahad Naveed
+
 Supervisior: Dr. Sabieh Anwar 
+
 Mentor: Dr. Adnan Raza.
 
 Explore PhysLab here:
